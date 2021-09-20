@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.custom-bg{
+	background-color: gray;
+}
+.admin .card{
+	transition: background 0.3s;
+}
+.admin .card:hover{
+	background: #dadada;
+	cursor: pointer;
+	
+}
+
+
